@@ -1,4 +1,4 @@
-Closed.Im dont have any motivation to update it.
+Im dont have any motivation to update it,but....But! Maybe im can make some rare updates.
 # Hack8R
 Game. Coded at HTML5 and Java
 Making to test my HTML5 abilities.
